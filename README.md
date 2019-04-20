@@ -1,4 +1,4 @@
-# dum-e: TUTORIAL on custom Cortana commands for Win10
+# dum-e: HOW TO run custom Cortana commands for Win10
 
 ## Intro
 One lazy Friday I was reading, while tightly wrapped in a blanket (because cold), how person A falls in love with person B for the 100th time. The moment I reached the bottom of the screen, I faced a dilemma. Get my hand out of the blanket and ruin the temperature equilibrium under the blanket or come up with something completely useless. Obviously, I chose the latter.
